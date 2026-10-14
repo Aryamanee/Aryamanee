@@ -11,5 +11,5 @@ I'm currently a **Computer Science** and **Business Administration** double-degr
 ---
 
 ### Connect with Me
-* **LinkedIn:** [Aryaman Sawhney] (https://www.linkedin.com/in/aryamansawhney/)
-* **Email:** [aryamansawhney@hotmail.com]
+* **LinkedIn:** [Aryaman Sawhney](https://www.linkedin.com/in/aryamansawhney/)
+* **Email:** aryamansawhney@hotmail.com
