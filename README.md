@@ -1,6 +1,6 @@
 # Hi, I'm Aryaman! 👋
 
-I'm currently a **Computer Science** and **Business Administration** double-degree student at the **University of Waterloo** and **Wilfrid Laurier University**.
+I'm currently a First-Year **Computer Science** and **Business Administration** double-degree student at the **University of Waterloo** and **Wilfrid Laurier University**.
 
 ---
 
